@@ -1,0 +1,14 @@
+.table-warper {
+  overflow-y: scroll;
+  overflow-x: scroll;
+  height: fit-content;
+  max-height: 120vh;
+  border-style: groove;
+}
+.table {
+  min-width: max-content;
+}
+
+.btn {
+  margin-bottom: 0px;
+}
